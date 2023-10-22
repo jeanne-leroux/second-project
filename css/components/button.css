@@ -1,0 +1,17 @@
+/* Style the link as a button */
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0074d9;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Hover effect */
+.button-link:hover {
+    background-color: #0056b3;
+}
